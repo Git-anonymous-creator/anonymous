@@ -4,13 +4,6 @@ central_db_url = 'http://10.43.7.90:5005/track_time'
 logs_url = 'http://10.43.7.90:5005/log' #log endpoint in DB
 db_url_get_time = 'http://10.43.7.90:5005/get_time'
 
-
-
-
-
-
-
-
 alpha = 0.02
 edge_cost_value= (1,5)
 cloud_cost_value = (20,30)
@@ -72,8 +65,6 @@ Prometheus_ip_address = '118.138.238.60:9090'
 json_path_directory = '/home/ubuntu/PycharmProjects/pythonProject/my_work/files/json/'
 others_path_directory = '/home/ubuntu/PycharmProjects/pythonProject/my_work/files/others/'
 csv_path_directory = '/home/ubuntu/PycharmProjects/pythonProject/my_work/files/csv/'
-
-
 
 ##############################################################################################################################
 ##############################################################################################################################
