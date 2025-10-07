@@ -1,0 +1,176 @@
+{
+    "response_time": {
+        "low": {
+            "type": "trapezoidal",
+            "parameters": [
+                0,
+                0,
+                0.2,
+                0.4
+            ]
+        },
+        "medium": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.2,
+                0.4,
+                0.6,
+                0.8
+            ]
+        },
+        "high": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.6,
+                0.8,
+                1,
+                1
+            ]
+        }
+    },
+    "cost": {
+        "low": {
+            "type": "trapezoidal",
+            "parameters": [
+                0,
+                0,
+                0.2,
+                0.4
+            ]
+        },
+        "medium": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.2,
+                0.4,
+                0.6,
+                0.8
+            ]
+        },
+        "high": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.6,
+                0.8,
+                1,
+                1
+            ]
+        }
+    },
+    "power": {
+        "low": {
+            "type": "trapezoidal",
+            "parameters": [
+                0,
+                0,
+                0.2,
+                0.4
+            ]
+        },
+        "medium": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.2,
+                0.4,
+                0.6,
+                0.8
+            ]
+        },
+        "high": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.6,
+                0.8,
+                1,
+                1
+            ]
+        }
+    },
+    "reliability": {
+        "low": {
+            "type": "trapezoidal",
+            "parameters": [
+                0,
+                0,
+                0.2,
+                0.4
+            ]
+        },
+        "medium": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.2,
+                0.4,
+                0.6,
+                0.8
+            ]
+        },
+        "high": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.6,
+                0.8,
+                1,
+                1
+            ]
+        }
+    },
+    "scale_replicas": {
+        "few": {
+            "type": "trapezoidal",
+            "parameters": [
+                0,
+                0,
+                0.2,
+                0.4
+            ]
+        },
+        "moderate": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.2,
+                0.4,
+                0.6,
+                0.8
+            ]
+        },
+        "many": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.6,
+                0.8,
+                1,
+                1
+            ]
+        }
+    },
+    "ratio_placement": {
+        "low": {
+            "type": "trapezoidal",
+            "parameters": [
+                0,
+                0,
+                0.2,
+                0.4
+            ]
+        },
+        "medium": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.2,
+                0.4,
+                0.6,
+                0.8
+            ]
+        },
+        "high": {
+            "type": "trapezoidal",
+            "parameters": [
+                0.6,
+                0.8,
+                1,
+                1
+            ]
+        }
+    }
+}

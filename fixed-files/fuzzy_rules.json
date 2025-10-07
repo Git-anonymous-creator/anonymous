@@ -1,0 +1,974 @@
+[
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "low",
+      "power": "low",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "low",
+      "power": "low",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "low",
+      "power": "low",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "low",
+      "power": "medium",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "low",
+      "power": "medium",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "low",
+      "power": "medium",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "low",
+      "power": "high",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "low",
+      "power": "high",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "low",
+      "power": "high",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "medium",
+      "power": "low",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "medium",
+      "power": "low",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "medium",
+      "power": "low",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "medium",
+      "power": "medium",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "medium",
+      "power": "medium",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "medium",
+      "power": "medium",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "medium",
+      "power": "high",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "medium",
+      "power": "high",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "medium",
+      "power": "high",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "high",
+      "power": "low",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "high",
+      "power": "low",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "high",
+      "power": "low",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "high",
+      "power": "medium",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "high",
+      "power": "medium",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "high",
+      "power": "medium",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "high",
+      "power": "high",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "high",
+      "power": "high",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "low",
+      "cost": "high",
+      "power": "high",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "low",
+      "power": "low",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "low",
+      "power": "low",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "low",
+      "power": "low",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "low",
+      "power": "medium",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "low",
+      "power": "medium",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "low",
+      "power": "medium",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "low",
+      "power": "high",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "low",
+      "power": "high",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "low",
+      "power": "high",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "medium",
+      "power": "low",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "medium",
+      "power": "low",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "medium",
+      "power": "low",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "medium",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "medium",
+      "power": "medium",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "medium",
+      "power": "medium",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "medium",
+      "power": "medium",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "medium",
+      "power": "high",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "medium",
+      "power": "high",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "medium",
+      "power": "high",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "high",
+      "power": "low",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "high",
+      "power": "low",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "high",
+      "power": "low",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "high",
+      "power": "medium",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "high",
+      "power": "medium",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "high",
+      "power": "medium",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "high",
+      "power": "high",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "high",
+      "power": "high",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "few",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "medium",
+      "cost": "high",
+      "power": "high",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "moderate",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "low",
+      "power": "low",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "low",
+      "power": "low",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "low",
+      "power": "low",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "low",
+      "power": "medium",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "low",
+      "power": "medium",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "low",
+      "power": "medium",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "low",
+      "power": "high",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "low",
+      "power": "high",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "low",
+      "power": "high",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "medium",
+      "power": "low",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "medium",
+      "power": "low",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "medium",
+      "power": "low",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "medium",
+      "power": "medium",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "medium",
+      "power": "medium",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "medium",
+      "power": "medium",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "medium",
+      "power": "high",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "medium",
+      "power": "high",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "medium",
+      "power": "high",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "high",
+      "power": "low",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "high",
+      "power": "low",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "high",
+      "power": "low",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "high",
+      "power": "medium",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "high",
+      "power": "medium",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "medium"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "high",
+      "power": "medium",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "high"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "high",
+      "power": "high",
+      "reliability": "low"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "high",
+      "power": "high",
+      "reliability": "medium"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "low"
+    }
+  },
+  {
+    "if": {
+      "response_time": "high",
+      "cost": "high",
+      "power": "high",
+      "reliability": "high"
+    },
+    "then": {
+      "provisioing_strategy": "many",
+      "placement_strategy": "high"
+    }
+  }
+]

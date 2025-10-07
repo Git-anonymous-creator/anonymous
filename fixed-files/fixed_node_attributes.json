@@ -1,0 +1,24 @@
+{
+"worker1": { "node_cost": 1.73, "node_probability_of_failure": 0.07603 },
+"worker2": { "node_cost": 1.83, "node_probability_of_failure": 0.01143 },
+"worker3": { "node_cost": 4.49, "node_probability_of_failure": 0.07125 },
+"worker4": { "node_cost": 3.43, "node_probability_of_failure": 0.01611 },
+"worker5": { "node_cost": 3.64, "node_probability_of_failure": 0.06044 },
+"worker6": { "node_cost": 3.62, "node_probability_of_failure": 0.03231 },
+"worker7": { "node_cost": 4.56, "node_probability_of_failure": 0.03339 },
+"worker8": { "node_cost": 3.07, "node_probability_of_failure": 0.09094 },
+"worker9": { "node_cost": 4.08, "node_probability_of_failure": 0.02059 },
+"worker10": { "node_cost": 4.45, "node_probability_of_failure": 0.07218 },
+"worker11": { "node_cost": 1.12, "node_probability_of_failure": 0.08416 },
+"worker12": { "node_cost": 2.96, "node_probability_of_failure": 0.03994 },
+"worker13": { "node_cost": 27.05, "node_probability_of_failure": 0.00228 },
+"worker14": { "node_cost": 26.47, "node_probability_of_failure": 0.004 },
+"worker15": { "node_cost": 28.84, "node_probability_of_failure": 0.00301},
+"worker16": { "node_cost": 29.93, "node_probability_of_failure": 0.00415 },
+"worker17": { "node_cost": 24.12, "node_probability_of_failure": 0.00227 },
+"worker18": { "node_cost": 22.26, "node_probability_of_failure": 0.00222 },
+"worker19": { "node_cost": 21.98, "node_probability_of_failure": 0.00103 },
+"worker20": { "node_cost": 27.03, "node_probability_of_failure": 0.00113 }
+}
+
+
