@@ -20,7 +20,6 @@ import threading
 from config import edge_cost_value, cloud_cost_value, cloud_probability_of_failure, edge_probability_of_failure
 from config import node_cost_range_random, probability_of_failure, P_MAX, P_IDLE , min_range_reliability,max_range_reliability, locust_master_url
 from config import cloud_cpu_core_price, cloud_mem_GB_price, edge_cpu_core_price, edge_mem_GB_price, cloud_nodes_idle, cloud_nodes_max, edge_nodes_idle, edge_nodes_max
-
 import random
 import yaml
 import shutil
@@ -28,9 +27,6 @@ from collections import defaultdict
 import math
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 # Cooldown and locking to prevent repeated scaling
-
-
-
 
 node_cost_range = node_cost_range_random  # cost in arbitrary units
 node_probability_of_failure = probability_of_failure  # probability of failure
@@ -1053,9 +1049,6 @@ def prioritize_nodes_for_placement(cluster_data):
     sorted_edge = [n for n, _ in sorted(edge_nodes, key=lambda x: x[1])]
 
     return sorted_cloud, sorted_edge
-
-
-
 
 
 def print_node_labels():
@@ -2266,8 +2259,6 @@ last_action_time = 0
 cooldown_seconds = 100  # 3 minutes cooldown
 
 
-'''
-
 def scheduler():
     global last_action_time
     try:
@@ -2343,14 +2334,6 @@ def poll_user_level_change(interval=20, replica_bounds_file="fixed-files/replica
         print(f"❌ Error initializing user-level polling: {e}")
 
 poll_user_level_change(interval=10)
-
-
-
-
-'''
-
-
-
 
 # Run the application
 root.mainloop()
