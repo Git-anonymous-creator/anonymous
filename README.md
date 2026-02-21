@@ -13,7 +13,7 @@
 ==================
 
 Fuzzy Logic Rules:
-__________________
+==================
 Rule 1: IF response_time=low, cost=low, power=low, reliability=low THEN provisioning_strategy=few, placement_strategy=low
 
 Rule 2: IF response_time=low, cost=low, power=low, reliability=medium THEN provisioning_strategy=few, placement_strategy=medium
@@ -181,7 +181,7 @@ Rule 81: IF response_time=high, cost=high, power=high, reliability=high THEN pro
 
 
 Membership Functions:
-+++++++++++++++++++++++
+==================
 
 membership_functions = {
 
