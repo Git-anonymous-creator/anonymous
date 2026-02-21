@@ -182,10 +182,16 @@ Membership Functions:
 _____________________
 membership_functions = {
     "response_time": {"low": [0, 0, 0.2, 0.4], "medium": [0.2, 0.4, 0.6, 0.8], "high": [0.6, 0.8, 1, 1]},
+    
     "cost": {"low": [0, 0, 0.2, 0.4], "medium": [0.2, 0.4, 0.6, 0.8], "high": [0.6, 0.8, 1, 1]},
+    
     "power": {"low": [0, 0, 0.2, 0.4], "medium": [0.2, 0.4, 0.6, 0.8], "high": [0.6, 0.8, 1, 1]},
+    
     "reliability": {"low": [0, 0, 0.2, 0.4], "medium": [0.2, 0.4, 0.6, 0.8], "high": [0.6, 0.8, 1, 1]},
+    
     "provisioning_strategy": {"few": [0, 0, 0.2, 0.4], "moderate": [0.2, 0.4, 0.6, 0.8], "many": [0.6, 0.8, 1, 1]},
+    
     "placement_strategy": {"low": [0, 0, 0.2, 0.4], "medium": [0.2, 0.4, 0.6, 0.8], "high": [0.6, 0.8, 1, 1]}
+    
 }
 
