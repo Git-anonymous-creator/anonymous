@@ -6,7 +6,8 @@
 - The main.py includes the main code of CognitiveContinuum
 - The fixed-files folder includes the neccessary files that are read when running the code
 - Note- You may need the API Key for GPT-4o to run the code.
-==================
+
+
 
 << FUZZY LOGIC RULES AND MEMBERSHIP FUNCTIONS >>
 ==================
