@@ -178,8 +178,11 @@ Rule 81: IF response_time=high, cost=high, power=high, reliability=high THEN pro
 
 
 
+
+
 Membership Functions:
 _____________________
+
 membership_functions = {
 
     "response_time": {"low": [0, 0, 0.2, 0.4], "medium": [0.2, 0.4, 0.6, 0.8], "high": [0.6, 0.8, 1, 1]},
