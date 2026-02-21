@@ -6,12 +6,13 @@
 - The main.py includes the main code of CognitiveContinuum
 - The fixed-files folder includes the neccessary files that are read when running the code
 - Note- You may need the API Key for GPT-4o to run the code.
-________________________________________________________
+==================
 
 << FUZZY LOGIC RULES AND MEMBERSHIP FUNCTIONS >>
+==================
 
 Fuzzy Logic Rules:
-==================
+__________________
 Rule 1: IF response_time=low, cost=low, power=low, reliability=low THEN provisioning_strategy=few, placement_strategy=low
 Rule 2: IF response_time=low, cost=low, power=low, reliability=medium THEN provisioning_strategy=few, placement_strategy=medium
 Rule 3: IF response_time=low, cost=low, power=low, reliability=high THEN provisioning_strategy=few, placement_strategy=high
@@ -97,7 +98,7 @@ Rule 81: IF response_time=high, cost=high, power=high, reliability=high THEN pro
 
 
 Membership Functions:
-=====================
+_____________________
 membership_functions = {
     "response_time": {"low": [0, 0, 0.2, 0.4], "medium": [0.2, 0.4, 0.6, 0.8], "high": [0.6, 0.8, 1, 1]},
     "cost": {"low": [0, 0, 0.2, 0.4], "medium": [0.2, 0.4, 0.6, 0.8], "high": [0.6, 0.8, 1, 1]},
